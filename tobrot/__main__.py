@@ -46,9 +46,9 @@ if __name__ == "__main__" :
     #
     app = Client(
         "LeechBot",
-        bot_token=TG_BOT_TOKEN,
-        api_id=APP_ID,
-        api_hash=API_HASH,
+        bot_token="1243308559:AAFdiqgo9zXVY6slFo-HtGy10Mg6X4D9USI",
+        api_id=1415166,
+        api_hash="3648783d7734f39c3cc2ce21eff8ce3d",
         workers=343
     )
     #
